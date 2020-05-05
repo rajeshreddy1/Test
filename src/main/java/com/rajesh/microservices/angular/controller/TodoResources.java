@@ -19,6 +19,8 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.rajesh.microservices.angular.model.Todo;
 import com.rajesh.microservices.angular.service.TodoHardCodedService;
 
+
+// Angular controller file
 @CrossOrigin(origins="http://localhost:1841")
 @RestController
 public class TodoResources {
