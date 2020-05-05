@@ -2,6 +2,7 @@ package com.rajesh.microservices.angular.model;
 
 import java.util.Date;
 
+// Todo model class
 public class Todo {
 
 	private long id;
