@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.rajesh.microservices.jpa.model.User;
 import com.rajesh.microservices.jpa.repo.UserRepository;
 
+//Jpa controller
 @Controller
 public class JpaController {
 	
